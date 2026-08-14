@@ -19,5 +19,11 @@ export const PROJECTS: Project[] = [
   //   repoUrl: "https://github.com/your-username/project",
   //   image: "/image.jpg"
   // },
-  
+  {
+    title: "Krispr",
+    description: "No fancy dining room. Just a flat top, a fryer, and way too much hot sauce.",
+    tags: ["Next.js", "TypeScript", "Tailwindcss"],
+    liveUrl: "https://krispr.vercel.app",
+    image: "/krispr.svg"
+  },
 ];

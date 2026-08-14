@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <!-- Rounded Background Card (Match image background) -->
+  <rect width="512" height="512" rx="110" fill="#FAF6EE"/>
+
+  <!-- Compact K. Logo -->
+  <text 
+    x="256" 
+    y="290" 
+    text-anchor="middle" 
+    dominant-baseline="middle" 
+    font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" 
+    font-size="310" 
+    font-weight="800" 
+    letter-spacing="-6" 
+    fill="#181818"
+  >K<tspan fill="#FF4112">.</tspan></text>
+</svg>
