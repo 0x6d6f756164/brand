@@ -1,0 +1,1 @@
+No need for README since it's personal stuff, you ain't using this for ur own prolly?
