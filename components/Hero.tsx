@@ -1,6 +1,6 @@
 import { ArrowDown } from "lucide-react";
 import { SITE, AVAILABILITY, SOCIALS } from "@/lib/constants";
-import { FaGithub, FaLinkedin, FaInstagram } from "react-icons/fa6";
+import { FaGithub, FaLinkedin, FaInstagram, FaWhatsapp } from "react-icons/fa6";
 
 const STATUS_COLOR = AVAILABILITY.isAvailable
   ? AVAILABILITY.availableColor
@@ -8,7 +8,7 @@ const STATUS_COLOR = AVAILABILITY.isAvailable
 
 const SOCIAL_LINKS = [
   { label: "GitHub", href: SOCIALS.github, icon: FaGithub },
-  { label: "LinkedIn", href: SOCIALS.linkedin, icon: FaLinkedin },
+  { label: "WhatsApp", href: SOCIALS.whatsapp, icon: FaWhatsapp },
   { label: "Instagram", href: SOCIALS.instagram, icon: FaInstagram },
 ];
 
