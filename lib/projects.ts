@@ -26,4 +26,11 @@ export const PROJECTS: Project[] = [
     liveUrl: "https://krispr.vercel.app",
     image: "/krispr.svg"
   },
+  {
+    title: "Momentum",
+    description: "A confident, data-driven landing page for a growth marketing agency",
+    tags: ["Next.js", "TypeScript", "Tailwindcss"],
+    liveUrl: "https://momentum-mock-design.vercel.app",
+    image: "/momentum.svg"
+  },
 ];
