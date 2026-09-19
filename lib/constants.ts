@@ -20,7 +20,7 @@ export const SOCIALS = {
   github: "https://github.com/0x6d6f756164",
   whatsapp: "https://wa.me/+212639657644",
   // linkedin: "https://linkedin.com/",
-  instagram: "https://instagram.com/4d75617468",
+  instagram: "https://instagram.com/muath.dev/",
 } as const;
 
 export const NAV_LINKS = [
