@@ -11,7 +11,7 @@ const FORMSPREE_ENDPOINT = "https://formspree.io/f/xvzerwjv";
 
 const CONTACT_LINKS = [
   { label: SITE.email, href: `mailto:${SITE.email}`, icon: Mail },
-  { label: "GitHub", href: SOCIALS.github, icon: FaGithub },
+  // { label: "GitHub", href: SOCIALS.github, icon: FaGithub },
   // { label: "LinkedIn", href: SOCIALS.linkedin, icon: FaLinkedin },
   { label: "WhatsApp", href: SOCIALS.whatsapp, icon: FaWhatsapp },
   { label: "Instagram", href: SOCIALS.instagram, icon: FaInstagram },

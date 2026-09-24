@@ -7,7 +7,7 @@ const STATUS_COLOR = AVAILABILITY.isAvailable
   : AVAILABILITY.unavailableColor;
 
 const SOCIAL_LINKS = [
-  { label: "GitHub", href: SOCIALS.github, icon: FaGithub },
+  // { label: "GitHub", href: SOCIALS.github, icon: FaGithub },
   { label: "WhatsApp", href: SOCIALS.whatsapp, icon: FaWhatsapp },
   { label: "Instagram", href: SOCIALS.instagram, icon: FaInstagram },
 ];
